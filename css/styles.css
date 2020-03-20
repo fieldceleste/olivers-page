@@ -1,0 +1,32 @@
+
+h1 {
+    color:rgb(38, 129, 38);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+body {
+    color:rgb(14, 69, 121);
+}
+h3 {
+    font-style: italic;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+ul{
+    text-align: center;
+    list-style-position: inside;
+
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
